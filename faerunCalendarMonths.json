@@ -1,0 +1,115 @@
+{
+  "name":"Faerun Calendar",
+  "url":"",
+  "calendar" : [
+    {
+      "index": "0",
+      "type": "month",
+      "month_number": "1",
+      "name": "Hammer",
+      "common_name": "Deepwinter"
+    },{
+      "index": "1",
+      "type": "holiday",
+      "month_number": "",
+      "name": "Annual Holiday",
+      "common_name": "Midwinter"
+    },{
+      "index": "2",
+      "type": "month",
+      "month_number": "2",
+      "name": "Alturiak",
+      "common_name": "The Claw of Winter"
+    },{
+      "index": "3",
+      "type": "month",
+      "month_number": "3",
+      "name": "Ches",
+      "common_name": "The Claw of the Sunsets"
+    },{
+      "index": "4",
+      "type": "month",
+      "month_number": "4",
+      "name": "Tarsakh",
+      "common_name": "The Claw of the Storms"
+    },{
+      "index": "5",
+      "type": "holiday",
+      "month_number": "",
+      "name": "Annual Holiday",
+      "common_name": "Greengrass"
+    },{
+      "index": "6",
+      "type": "month",
+      "month_number": "5",
+      "name": "Mirtul",
+      "common_name": "The Melting"
+    },{
+      "index": "7",
+      "type": "month",
+      "month_number": "6",
+      "name": "Kythorn",
+      "common_name": "The Time of Flowers"
+    },{
+      "index": "8",
+      "type": "month",
+      "month_number": "7",
+      "name": "Flamerule",
+      "common_name": "Summertide"
+    },{
+      "index": "9",
+      "type": "holiday",
+      "month_number": "",
+      "name": "Annual Holiday",
+      "common_name": "Midsummer"
+    },{
+      "index": "10",
+      "type": "holiday",
+      "month_number": "",
+      "name": "Quadrennial Holiday",
+      "common_name": "Shieldmeet"
+    },{
+      "index": "11",
+      "type": "month",
+      "month_number": "8",
+      "name": "Eleasias",
+      "common_name": "Highsun"
+    },{
+      "index": "12",
+      "type": "month",
+      "month_number": "9",
+      "name": "Eleint",
+      "common_name": "The Fading"
+    },{
+      "index": "13",
+      "type": "holiday",
+      "month_number": "",
+      "name": "Annual Holiday",
+      "common_name": "Highharvesttide"
+    },{
+      "index": "14",
+      "type": "month",
+      "month_number": "10",
+      "name": "Marpenoth",
+      "common_name": "Leaffall"
+    },{
+      "index": "15",
+      "type": "month",
+      "month_number": "11",
+      "name": "Uktar",
+      "common_name": "The Rotting"
+    },{
+      "index": "16",
+      "type": "holiday",
+      "month_number": "",
+      "name": "Annual Holiday",
+      "common_name": "The Feast of the Moon"
+    },{
+      "index": "17",
+      "type": "month",
+      "month_number": "12",
+      "name": "Nightal",
+      "common_name": "The Drawing Down"
+    }
+  ]
+}
