@@ -1,6 +1,6 @@
 {
   "name":"Faerun Calendar",
-  "url":"",
+  "url":"https://raw.githubusercontent.com/JukoJones/TheFaerunTomb/master/faerunCalendarMonths.json?token=ACUSB3ZIWFMMD7LN4DIMIXC6HKV54",
   "calendar" : [
     {
       "index": "0",
